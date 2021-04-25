@@ -7,6 +7,7 @@ export class Home extends Component {
     return (
       <div>
         <h1>Hello, world!</h1>
+        <p>I currently plan to leave most of this how it was initially, I'm thinking I might change it from being a portfolio site to just something I mess around and try things on. The main inspiration for this is the counter doesn't persist on refresh and the data on the "fetch data" route description does not match temp. I just want to mess around with that kind of stuff, see if I can get the text to make sense with the temperatures and get the counts to persist through refresh/routing to other pages.</p>
         <p>Welcome to your new single-page application, built with:</p>
         <ul>
           <li><a href='https://get.asp.net/'>ASP.NET Core</a> and <a href='https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx'>C#</a> for cross-platform server-side code</li>
